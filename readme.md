@@ -1,6 +1,6 @@
 First Project Of Web Devlopment.
 
-See Here : https://dipdarji.github.io/web1.github.io/
+See Here : https://deep-darji.github.io/web1.github.io/
 
 This is made by me and thanks to youtube.com/GreatLearning for amazing tutorials.
 
